@@ -7,7 +7,7 @@ about:
   head: f704057
   archived: false
   latestVersion: v0.28.0
-  collectedAt: 2026-09-04T20:05:06Z
+  collectedAt: 2026-09-04T20:46:25Z
 timeline:
   created: 2020-02-07
   lastCommit: 2026-07-29
@@ -19,7 +19,7 @@ popularity:
   release: 51
   contributor: 38
   pullRequest: 314
-  issue: 112
+  issue: 113
 language:
   Rust: 82034
   Shell: 3906
@@ -78,11 +78,11 @@ total:
   mergedPR: 154
   openPR: 12
   closedIssue: 65
-  openIssue: 47
+  openIssue: 48
   commit: 329
 ---
 path: /home/runner/.x-repo/github.com/sbstp/kubie
-collectedAt: 2026-09-04T20:05:07Z
+collectedAt: 2026-09-04T20:46:26Z
 loc:
   Rust:
     code: 2318
