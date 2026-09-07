@@ -5,13 +5,13 @@ about:
   head: 8b07fbd
   archived: false
   latestVersion: "v0.28.0"
-  collectedAt: 2026-09-07T05:50:56Z
+  collectedAt: 2026-09-07T18:37:04Z
 timeline:
   created: 2020-02-07
   lastCommit: 2026-09-05
   lastRelease: 2026-05-25
 popularity:
-  star: 2629
+  star: 2625
   watcher: 17
   fork: 130
   release: 51
@@ -80,7 +80,7 @@ total:
   commit: 330
 ---
 path: /home/runner/.x-repo/github.com/sbstp/kubie
-collectedAt: 2026-09-07T05:50:57Z
+collectedAt: 2026-09-07T18:37:05Z
 loc:
   Rust:
     code: 2318
@@ -246,7 +246,7 @@ checks:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:58+00:00
+  collectedAt: 2026-09-07T18:37:06+00:00
   platform:
     darwin/arm64:
       name:  kubie-darwin-arm64
