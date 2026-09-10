@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.28.0"
   latestRelease: "v0.28.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:12:02Z
+  collectedAt: 2026-09-10T22:43:19Z
 timeline:
   created: 2020-02-07
   lastCommit: 2026-09-05
@@ -84,7 +84,7 @@ total:
   commit: 330
 ---
 path: /home/runner/.x-repo/github.com/sbstp/kubie
-collectedAt: 2026-09-10T21:12:03Z
+collectedAt: 2026-09-10T22:43:21Z
 loc:
   Rust:
     code: 2318
