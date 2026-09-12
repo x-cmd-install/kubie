@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5695952,
       "digest": "sha256:d5e757c5cc608fefb7450dd4d395aaf9fc6a52f194af220c9a1fe7ed38570960",
-      "download_count": 703,
+      "download_count": 704,
       "created_at": "2026-05-25T03:23:28Z",
       "updated_at": "2026-05-25T03:23:29Z",
       "browser_download_url": "https://github.com/kubie-org/kubie/releases/download/v0.28.0/kubie-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7378384,
       "digest": "sha256:73c33bf140e3a6bf4cb603c371d1189f5bcce85ccc4e48fcfef9cd64642ffead",
-      "download_count": 17778,
+      "download_count": 17858,
       "created_at": "2026-05-25T03:23:51Z",
       "updated_at": "2026-05-25T03:23:52Z",
       "browser_download_url": "https://github.com/kubie-org/kubie/releases/download/v0.28.0/kubie-linux-amd64"
