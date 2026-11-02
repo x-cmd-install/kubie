@@ -275,9 +275,9 @@
   srcname: kubie
   binname: kubie
   visiblename: kubie
-  version: 0.28.0
-  origversion: 0.28.0-1
-  status: newest
+  version: 0.22.0
+  origversion: 0.22.0-1
+  status: outdated
   summary: A more powerful alternative to kubectx and kubens
   licenses:
     - custom:zlib
@@ -286,9 +286,9 @@
   srcname: kubie
   binname: kubie
   visiblename: kubie
-  version: 0.28.0
-  origversion: 0.28.0-1
-  status: newest
+  version: 0.22.0
+  origversion: 0.22.0-1
+  status: outdated
   summary: A more powerful alternative to kubectx and kubens
   licenses:
     - custom:zlib
