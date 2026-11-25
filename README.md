@@ -38,7 +38,7 @@ Total: **2,515** lines of code across **33** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,673 · **Forks**: 132 · **Open issues**: 115 · **Contributors**: 38
+- **Stars**: 2,674 · **Forks**: 132 · **Open issues**: 115 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,515** lines of code across **33** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 4 | 0 | 2 | 1 |
-| 90d | 2026-08-26 | 0 | 2 | 6 | 0 | 3 | 2 |
-| last180d | 2026-05-28 | 0 | 6 | 6 | 0 | 4 | 8 |
-| 360d | 2025-11-29 | 3 | 21 | 9 | 4 | 7 | 33 |
-| last720d | 2024-12-04 | 8 | 48 | 9 | 9 | 11 | 65 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 4 | 0 | 2 | 1 |
+| 90d | 2026-08-27 | 0 | 2 | 6 | 0 | 3 | 2 |
+| last180d | 2026-05-29 | 0 | 6 | 6 | 0 | 4 | 8 |
+| 360d | 2025-11-30 | 3 | 21 | 9 | 4 | 7 | 33 |
+| last720d | 2024-12-05 | 8 | 48 | 9 | 9 | 11 | 65 |
 
 ## Release assets
 
@@ -65,18 +65,6 @@ Total: **2,515** lines of code across **33** files in the top 5 languages.
 | [kubie-linux-arm32](https://github.com/kubie-org/kubie/releases/download/v0.28.0/kubie-linux-arm32) | 4.7 MiB | `native/linux/arm` |
 | [kubie-linux-arm64](https://github.com/kubie-org/kubie/releases/download/v0.28.0/kubie-linux-arm64) | 5.5 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **33** distros on [repology.org](https://repology.org/project/kubie). **14** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.28.0` | ✅ latest |
-| Homebrew | `0.28.0` | ✅ latest |
-| Nix unstable | `0.28.0` | ✅ latest |
-| Alpine edge | `0.28.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.28.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubie lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubie` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +74,4 @@ Install metadata for kubie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:39:16Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:22:20Z._
